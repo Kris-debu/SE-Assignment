@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "util.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
